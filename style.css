@@ -1,0 +1,77 @@
+body{
+    background-color: #0F1020;
+    font-family: 'Indie Flower', cursive;
+    color: #95A3A4;
+}
+
+img{
+    width: 35%;
+    border-radius: 30px;
+}
+
+.imagen1{
+    width: 467px;
+}
+
+.title-webbespacial{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 70px;
+}
+
+.title-misiones{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 30px;
+}
+
+.title-astrobiologia{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 30px;
+}
+
+.title-origen{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 30px;
+}
+
+.title-estrellas{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 30px;
+}
+
+.title-topestrellas{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 30px;
+}
+
+.title-edad{
+    color: #5F464B;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+.title-misionesapollo{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 20px;
+}
+
+.title-objetoscelestes{
+    font-family: 'Shadows Into Light', cursive;
+    color: #5F464B;
+    font-size: 20px;
+}
+/*
+selector{
+    propiedad : valor ;
+}
+.p-estrellas{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+*/
